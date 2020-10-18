@@ -12,4 +12,6 @@
 
 <br/>
 
+---
+
 Hi, I'm [Stefan Reifenberg](https:reifenberg.info), a Data Analyst/Scientist from Germany. Beside's programming, I enjoy gaming and mountain biking.
