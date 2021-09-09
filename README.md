@@ -16,7 +16,7 @@
 
 ---
 
-Hi, I'm [Stefan Reifenberg](https:reifenberg.info), a Data Analyst/Scientist from Germany. I work for [indblik.io](https://indlik.io), a company specialized in building data driven applications mainly in the geospatial sector. Beside's programming, I enjoy gaming and mountain biking.
+Hi, I'm [Stefan Reifenberg](https:reifenberg.info), a Data Analyst/Scientist from Germany. Beside's programming, I enjoy gaming and mountain biking.
 
 **Languages and Tools:**  
 
