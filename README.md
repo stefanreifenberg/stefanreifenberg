@@ -1,4 +1,4 @@
-### Hi I'm Stefan a Data Analyst and Designer of Data Visualizations
+### Hi I'm Stefan, Fullstack Developer and Designer of Data Visualizations
 
 <br/>
 
@@ -16,7 +16,6 @@
 
 ---
 
-Hi, I'm [Stefan Reifenberg](https:reifenberg.info), a Data Analyst/Scientist from Germany. Beside's programming, I enjoy gaming and mountain biking.
 
 **Languages and Tools:**  
 
@@ -28,6 +27,7 @@ Analysis:
 Visualization:
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="50" src="https://github.com/sveltejs/svelte/blob/29052aba7d0b78316d3a52aef1d7ddd54fe6ca84/site/static/logo.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 
 
@@ -35,5 +35,9 @@ Other:
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+
 
 
