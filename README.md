@@ -23,7 +23,7 @@ I work at the intersection of data, geography, and real-time 3D, building things
 
 ---
 
-## Projects
+## Recent Projects
 
 | Project | Description | Stack |
 |---|---|---|
