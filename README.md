@@ -9,7 +9,7 @@ I work at the intersection of data, geography, and real-time 3D, building things
 [![Twitter](https://img.shields.io/badge/X%20%2F%20Twitter-@Reyfenberg-555?style=flat&logo=x&logoColor=white)](https://twitter.com/Reyfenberg)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Stefan%20Reifenberg-555?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefan-reifenberg-5648bab2/)
 [![Instagram](https://img.shields.io/badge/Instagram-@reyfenberg-555?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/reyfenberg/)
-[![Website](https://img.shields.io/badge/Web-geo--projections.com-555?style=flat&logo=firefox&logoColor=white)](https://geo-projections.com)
+[![Website](https://img.shields.io/badge/Web-geo--projections.com-555?style=flat&logo=firefox&logoColor=white)](https://stefanreifenberg.com)
 
 ---
 
