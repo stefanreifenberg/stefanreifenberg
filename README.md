@@ -55,4 +55,4 @@ Open to freelance projects in 3D web visualization, geospatial applications, and
 
 ---
 
-<sub>Berlin · remote-friendly</sub>
+<sub>Freiburg im Breisgau · remote-friendly</sub>
