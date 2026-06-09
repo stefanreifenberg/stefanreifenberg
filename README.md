@@ -2,7 +2,9 @@
 
 **Freelance developer specialising in interactive 3D web visualizations and geospatial applications.**
 
-
+<a href="https://stefanreifenberg.com">
+  <img src="https://raw.githubusercontent.com/stefanreifenberg/stefanreifenberg/main/home-back.webp" alt="Stefan Reifenberg — 3D visualization and geospatial work" width="100%" />
+</a>
 
 I work at the intersection of data, geography, and real-time 3D, building things that make complex spatial information feel immediate and explorable. Based in Freiburg im Breisgau, working remotely.
 
